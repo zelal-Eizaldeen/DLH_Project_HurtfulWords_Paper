@@ -1,0 +1,16 @@
+matplotlib
+numpy
+pandas
+pyodbc
+pytorch-pretrained-bert
+PyYAML
+scikit-learn
+seaborn
+torch
+torchvision
+psycopg2-binary
+nltk
+openpyxl
+spacy
+scispacy
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.4/en_core_sci_md-0.2.4.tar.gz
